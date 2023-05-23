@@ -1,4 +1,4 @@
-package com.campbelltech;
+package com.campbelltech.payments.enums;
 
 public enum PaymentMethod {
     CREDIT_CARD,

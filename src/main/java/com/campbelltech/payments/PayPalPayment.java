@@ -1,4 +1,6 @@
-package com.campbelltech;
+package com.campbelltech.payments;
+
+import com.campbelltech.payments.Payment;
 
 import java.math.BigDecimal;
 import java.text.MessageFormat;

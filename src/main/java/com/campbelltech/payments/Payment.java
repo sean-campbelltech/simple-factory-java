@@ -1,4 +1,4 @@
-package com.campbelltech;
+package com.campbelltech.payments;
 
 import java.math.BigDecimal;
 

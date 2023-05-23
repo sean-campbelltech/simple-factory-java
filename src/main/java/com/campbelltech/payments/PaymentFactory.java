@@ -1,4 +1,9 @@
-package com.campbelltech;
+package com.campbelltech.payments;
+
+import com.campbelltech.payments.enums.PaymentMethod;
+import com.campbelltech.payments.impl.ApplePayPayment;
+import com.campbelltech.payments.impl.CreditCardPayment;
+import com.campbelltech.payments.impl.GooglePayPayment;
 
 import java.text.MessageFormat;
 
